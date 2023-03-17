@@ -11,7 +11,7 @@ const views = {
                 2 years helping and serving the people in several different areas. Learning spanish was not easy but it helped 
                 me to create good learning habits and to never give up. Now I've picked up other activities like skiing, golfing, 
                 wakeboarding, volleyball, and pretty much anything outdoorsy/sporty. Growing up and living in Utah has its perks with all these
-                activities but you just have to wait for the right season!</h3> </p>
+                activities but you just have to wait for the right season! I love to travel, enjoy and learn about other cultures.</h3> </p>
 
         </section>
             `,
